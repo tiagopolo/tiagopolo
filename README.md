@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá. 👋
 
-<!--
-**tiagopolo/tiagopolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bio
 
-Here are some ideas to get you started:
+#### Cursos já feitos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Curso Técnico (2017) Introdução ao HTML, CSS3, Rede de Computadores – Colégio Estadual Lisboa – Sarandi-PR.
+
+*Introdução ao HTML5 - Plataforma Dio - Junho/2022.
+
+*Introdução ao Css3 - Plataforma Dio -Junho/2022.
+
+*Jornada Dev – EBAC – Julho 2022.
+
+*Santander Bootcamp Full Stack Developer – Plataforma Dio – Maio 2022/Em andamento.
+
