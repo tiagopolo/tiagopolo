@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tiagopolo&repo=curriculojornadadev.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Informações de contato:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin' height='30'>](www.linkedin.com/in/tiagomarsonpolo)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin' height='30'>](https://www.linkedin.com/in/tiagomarsonpolo/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt='Whatsapp' height='30'>](https://contate.me/tiagopolo)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Email' height='30'>](tiagomarsonpolo@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='Email' height='30'>](https://www.gmail.com/tiagomarsonpolo@gmail.com)
 
